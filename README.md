@@ -7,7 +7,8 @@ I'm passionate about learning new technologies.
   - Scikit-Learn
   - Keras
   - Flask
- ** 🌱 I’m currently learning**
+
+**🌱 I’m currently learning**
   - RESTAPI development
 
 <!--
