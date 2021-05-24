@@ -2,14 +2,15 @@
 I'm Harikrishnan Pai, an enthusiast interested in AI technology and its applications to commercial uses.
 I'm passionate about learning new technologies.
 
-**Languages and Tools**
+**Languages and Tools I use**
   - Python
   - Scikit-Learn
   - Keras
   - Flask
 
 **🌱 I’m currently learning**
-  - RESTAPI development
+  - Hands-on RESTful Python webservices
+ 
 
 <!--
 **HGPai/HGPai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
