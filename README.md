@@ -7,6 +7,7 @@ I'm passionate about learning new technologies.
   - Scikit-Learn
   - Keras
   - Flask
+  - OpenCV
 
 **🌱 I’m currently learning**
   - Hands-on RESTful Python webservices
