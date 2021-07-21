@@ -12,6 +12,8 @@ I'm passionate about learning new technologies.
 **🌱 I’m currently learning**
   - Hands-on RESTful Python webservices
   - SpaCy
+  - MongoDB
+  
  
 
 <!--
