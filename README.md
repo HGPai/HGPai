@@ -4,13 +4,14 @@ I'm passionate about learning new technologies.
 
 **Languages and Tools I use**
   - Python
+  - PySpark
   - Scikit-Learn
   - Keras
   - Flask
   - OpenCV
 
 **🌱 I’m currently learning**
-  - Hands-on RESTful Python webservices
+  - Delta Lake
   - Demand Forecasting in Retail
   
  
