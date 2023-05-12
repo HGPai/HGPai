@@ -11,8 +11,7 @@ I'm passionate about learning new technologies.
   - OpenCV
 
 **🌱 I’m currently learning**
-  - Delta Lake
-  - Demand Forecasting in Retail
+  - GSQL - Graph algorithms
   
  
 
