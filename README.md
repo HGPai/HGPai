@@ -11,7 +11,7 @@ I'm passionate about learning new technologies.
   - OpenCV
 
 **🌱 I’m currently learning**
-  - GSQL - Graph algorithms
+  - Databricks
   
  
 
