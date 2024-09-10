@@ -14,7 +14,7 @@ I'm passionate about learning new technologies.
   - Snowflake
   
  
-![](https://komarev.com/ghpvc/?username=HGPaie&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 <!--
 **HGPai/HGPai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
